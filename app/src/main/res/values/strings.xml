@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Hospital Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+    <string-array name="shift">
+        <item>Morning</item>
+        <item>Evening</item>
+    </string-array>
+    <string-array name="specialization">
+        <item>Anesthesiologist</item>
+        <item>Cardiologist</item>
+        <item>Dermatologists</item>
+        <item>Endocrinologists</item>
+        <item>Gastroenterologists</item>
+        <item>Hematologists</item>
+        <item>Internists</item>
+        <item>Nephrologists</item>
+        <item>Neurologists</item>
+        <item>Oncologists</item>
+        <item>Ophthalmologists</item>
+        <item>Osteopaths</item>
+        <item>Otolaryngologists</item>
+        <item>Pathologists</item>
+        <item>Pediatricians</item>
+        <item>Physiatrists</item>
+        <item>Plastic Surgeons</item>
+        <item>Podiatrists</item>
+        <item>Psychiatrists</item>
+        <item>Pulmonologists</item>
+        <item>Radiologists</item>
+        <item>Rheumatologists</item>
+        <item>Urologists</item>
+        <item>Marketing</item>
+        <item>Hospital Management</item>
+        <item>Finance Management</item>
+        <item>Healthcare Policy Management</item>
+    </string-array>
+</resources>

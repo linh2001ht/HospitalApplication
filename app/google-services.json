@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264200055000",
+    "firebase_url": "https://android-application-2e31f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-application-2e31f",
+    "storage_bucket": "android-application-2e31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264200055000:android:74d4c3e0193d158484cfad",
+        "android_client_info": {
+          "package_name": "com.finalexam.hospitalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264200055000-90lrgvivgisp5d3tccqar4pk4gb5fsfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalexam.hospitalapplication",
+            "certificate_hash": "c03f0741e4f15e493e0dcb862241fac1e629db22"
+          }
+        },
+        {
+          "client_id": "264200055000-r8dpo8rl3fel4375hbt15m26647t7lh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHUMPTzQeVYmNcOddmZH261bljHvRyH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264200055000-r8dpo8rl3fel4375hbt15m26647t7lh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

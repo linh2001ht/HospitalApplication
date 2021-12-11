@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_doctor__edit_profile.xml" value="0.16979166666666667" />
+        <entry key="app/src/main/res/layout/activity_doctor__profile.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_doctor__registration.xml" value="0.176" />
+        <entry key="app/src/main/res/layout/activity_doctor__show_appointment.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_feedback.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_forgot__password.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.16979166666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16979166666666667" />
+        <entry key="app/src/main/res/layout/activity_patient__book_appointment.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_patient__doctor_profile.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_patient__registration.xml" value="0.152" />
+        <entry key="app/src/main/res/layout/activity_patient__show_booked_appointment.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_select_registration.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/app_bar_layout.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/doctor_list_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/doctorlist_item_layout.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/fragment_date.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/fragment_doctor.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/fragment_specialization.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/header_menu.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/roster_dialog.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/singel_specialization_list.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/single_booked_appointment.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/single_doctor_list.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/single_show_appointment.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/udate_dialog.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/verify_email.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.16979166666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19010416666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
