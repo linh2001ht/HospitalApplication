@@ -15,7 +15,7 @@
         <entry key="app/src/main/res/layout/activity_patient__doctor_profile.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/activity_patient__registration.xml" value="0.152" />
         <entry key="app/src/main/res/layout/activity_patient__show_booked_appointment.xml" value="0.2223731884057971" />
-        <entry key="app/src/main/res/layout/activity_select_registration.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_select_registration.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/app_bar_layout.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/doctor_list_dialog.xml" value="0.1" />
@@ -26,9 +26,9 @@
         <entry key="app/src/main/res/layout/header_menu.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/roster_dialog.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/singel_specialization_list.xml" value="0.2223731884057971" />
-        <entry key="app/src/main/res/layout/single_booked_appointment.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/single_booked_appointment.xml" value="0.264" />
         <entry key="app/src/main/res/layout/single_doctor_list.xml" value="0.2223731884057971" />
-        <entry key="app/src/main/res/layout/single_show_appointment.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/single_show_appointment.xml" value="0.4" />
         <entry key="app/src/main/res/layout/udate_dialog.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/verify_email.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.16979166666666667" />

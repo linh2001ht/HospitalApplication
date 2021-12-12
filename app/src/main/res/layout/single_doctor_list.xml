@@ -22,8 +22,8 @@
                 android:layout_width="0dp"
                 android:layout_height="90dp"
                 android:layout_weight="1"
-                app:srcCompat="@mipmap/stethoscope"
-                android:src="@mipmap/stethoscope"
+                app:srcCompat="@drawable/doctor"
+                android:src="@drawable/doctor"
                 android:padding="5dp"/>
 
             <LinearLayout

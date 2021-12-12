@@ -2,6 +2,7 @@
     <string name="app_name">Hospital Application</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="app_description">Không có gì cả</string>
     <string name="copy_right" translatable="false">Copyrights © %1$d</string>
     <string-array name="shift">
         <item>Morning</item>
